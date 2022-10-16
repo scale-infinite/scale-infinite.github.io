@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://scale-infinite.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Scaleinfinite'
 theme = "hugo-theme-learn"
 
 # For search functionality
