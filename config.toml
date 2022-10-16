@@ -2,6 +2,7 @@ baseURL = 'https://scale-infinite.github.io/'
 languageCode = 'en-us'
 title = 'Scaleinfinite'
 theme = "hugo-theme-learn"
+publishDir = "public"
 
 # For search functionality
 [outputs]
