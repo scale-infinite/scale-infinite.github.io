@@ -59,6 +59,3 @@ pre = "<b>1. </b>"
 ➡️ If you has a docker file	you can also add it here to built the application.
 
 
-# Some Chapter title
-
-Lorem Ipsum.
