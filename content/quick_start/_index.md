@@ -6,7 +6,7 @@ chapter = true
 pre = "<b>1. </b>"
 +++
 
-## Getting started
+# Getting started
 
 ![App Screenshot](images/steps.png)
 
