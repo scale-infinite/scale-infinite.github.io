@@ -8,13 +8,13 @@ pre = "<b>1. </b>"
 
 ## Getting started
 
-![App Screenshot](gh-pages/steps.png)
+![App Screenshot](images/steps.png)
 
 ## create account in scaleinfinite platform.	🖥️
 
 ➡️ SignUP simply by using your Google account or email.
 
-![App Screenshot](gh-pages/signup.png)
+![App Screenshot](signup.png)
 
 ➡️ Go to Create App section in the side menu.
 
