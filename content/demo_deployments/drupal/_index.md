@@ -6,6 +6,8 @@ draft: false
 
 Drupal is a free and open-source web content management system written in PHP.
 
+##### ➡️ This deployment uses the official Drupal Docker image.  
+
 ➡️ Go to create apps page and Search Drupal on the search bar.
 
 ➡️ Click on install button.

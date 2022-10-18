@@ -6,6 +6,8 @@ draft: false
 
 Grafana is a multi-platform open source analytics and interactive visualization web application. It provides charts, graphs, and alerts for the web when connected to supported data sources.
 
+##### ➡️ This deployment uses the official Grafana Docker image.  
+
 ➡️ Go to create apps page and Search grafana on the search bar.
 
 ➡️ Click on install button.

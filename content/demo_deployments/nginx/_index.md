@@ -6,6 +6,8 @@ draft: false
 
 Nginx is a web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache.  Nginx is free and open-source software.
 
+##### ➡️ This deployment uses the official Nginx Docker image.
+
 ➡️ Go to create apps page and Search nginx on the search bar.
 
 ➡️ Click on install button. 
