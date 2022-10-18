@@ -7,6 +7,22 @@ draft: false
 
 WordPress is a free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS.
 
+##### ➡️ Docker image of this application consists of following layers :
+
+```
+'FROM ubuntu:14.04' Taking ubuntu:14.04 as the base image.
+
+And updating and installing all the required softwares like 'mysql-server' 'mysql-client' 'nginx' for better performance 'php5-fpm' 'php5-mysql'.
+
+And installing all the required softwares for Wordpress 'php5-curl' 'php5-gd' 'php5-intl'
+
+Done configurations in required files like adding nginx keepalive_timeout and wordpress upload and post max file size.
+
+Exposing 3306 and 80 ports on the container. 
+```
+
+### Deploy Wordpress Mysql on Scaleinfinite
+
 ➡️ Go to create apps page and Search scaleinfinite/wpmysql on the search bar.
 
 ➡️ Click on install button. 

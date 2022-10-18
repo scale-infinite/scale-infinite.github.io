@@ -7,6 +7,23 @@ draft: fales
 
 XAMPP is a free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages.
 
+##### ➡️ Docker image of this application consists of following layers :
+
+```
+'FROM debian:buster' Taking debian:buster as the base image.
+
+And updating and installing all the required softwares like 'openssh-server' 'supervisor' 'net-tools'
+
+Installing the Xampp software. And configuring Xampp to Enable web interface, error display in php.
+
+And creating a /www folder and a symbolic link to it in /opt/lampp/htdocs. This is convenient because it doesn't interfere with xampp, phpmyadmin or other tools in /opt/lampp/htdocs.
+
+And exposing 3306, 22 and 80 ports.
+```
+
+
+### Deploy Xampp on Scaleinfinite
+
 ➡️ Go to create apps page and Search scaleinfinite/xampp on the search bar.
 
 ➡️ Click on install button. 

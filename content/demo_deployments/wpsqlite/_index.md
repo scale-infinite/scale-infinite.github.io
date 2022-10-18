@@ -7,6 +7,17 @@ draft: false
 
 SQLite is a opensource SQL database that stores data to a text file on a device. WordPress is a free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS.
 
+##### ➡️ Docker image of this application consists of following layers :
+
+```
+'FROM wordpress:latest' Taking Wordpress as the base image
+
+Used PHP scripts to 'install' the SQLite plugin and setting up the database so that the wordpress will recognize the sqlite database. 
+
+```
+
+### Deploy Wordpress SQLite on Scaleinfinite
+
 ➡️ Go to create apps page and Search scaleinfinite/wpsqlite on the search bar.
 
 ➡️ Click on install button. 
