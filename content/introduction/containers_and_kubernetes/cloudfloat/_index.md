@@ -1,5 +1,5 @@
 ---
-title: "Cloudfloat"
+title: "cloudfloat"
 date: 2022-10-19T11:46:31+05:30
 draft: false
 ---
@@ -24,4 +24,5 @@ Simply select the application you need to deploy from the range of pre-selected 
 
 Copy and search the host name of the application to access the application.
 
+![App Screenshot](images/cfarc.png)
  
