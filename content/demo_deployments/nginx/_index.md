@@ -24,27 +24,19 @@ Nginx is a web server that can also be used as a reverse proxy, load balancer, m
 | :--------     | :--------     |
 | `80,90`       | `3306,5432`   |
 
-➡️ click on next.
-
-| PORT NUMBER   |
-| :--------     |
-| `default 22`  |
-
-➡️ click on next.
+➡️ click on Advanced.
 
 | ENV VARIABLE         |  WHITELIST                                                       |        WORKING DIR          |
 | :---------           | :--------                                                        |:----------------------------| 
-| `Give env variable`  | `If you want to white list any ports list here` `Example` `82`   |`WORKDIR for the application`|
+| `Give env variable`  | `If you want to white list any ports list here`                  |`WORKDIR for the application`|
 
-➡️ Click on the Finish button.
+➡️ Click on the Install button.
 
 ➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
 ![App Screenshot](images/myapps.png)
 
 ➡️ Copy the nginx application Hostname without NodePort and search the Url. 
-
-➡️ Change the port in the starting of Url to port 80 to access the application.
 
 ➡️ Now you can able to access the nginx webpage. 
 

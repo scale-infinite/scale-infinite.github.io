@@ -22,29 +22,21 @@ Drupal is a free and open-source web content management system written in PHP.
 
 | HTTP          | TCP/UDP       |
 | :--------     | :--------     |
-| `80,90`       | `3306,5432`   |
+| `80`          |               |
 
-➡️ click on next
-
-| PORT NUMBER   |
-| :--------     |
-| `default 22`  |
-
-➡️ click on next.
+➡️ click on Advanced.
 
 | ENV VARIABLE                                                                                                                  |  WHITELIST                                                       |        WORKING DIR          |
 | :---------                                                                                                                    | :--------                                                        |:----------------------------| 
-| `You can set multiple ENV for database connection` `MYSQL_DATABASE, MYSQL_USER`, `MYSQL_PASSWORD`, and `MYSQL_ROOT_PASSWORD`  | `If you want to white list any ports list here` `Example` `82`   |`WORKDIR for the application`|
+| `You can set multiple ENV for database connection` `MYSQL_DATABASE, MYSQL_USER`, `MYSQL_PASSWORD`, and `MYSQL_ROOT_PASSWORD`  | `If you want to white list any ports list here`                  |`WORKDIR for the application`|
 
-➡️ Click on the Finish button.
+➡️ Click on the Install button.
 
 ➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
 ![App Screenshot](images/myapps.png)
 
 ➡️ Copy the Drupal application Hostname without NodePort and search the Url. 
-
-➡️ Change the port in the starting of Url to port 80 to access the application.
 
 ➡️ Now you can access the Drupal login page.
 

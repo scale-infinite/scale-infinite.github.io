@@ -38,31 +38,21 @@ And exposing 3306, 22 and 80 ports.
 
 | HTTP          | TCP/UDP       |
 | :--------     | :--------     |
-| `80,90`       | `3306,5432`   |
+| `80`          |               |
 
-➡️ click on next.
+➡️ click on Advanced.
 
-| PORT NUMBER   |
-| :--------     |
-| `default 22`  |
-
-➡️ click on next.
-
-| ENV VARIABLE         |  WHITELIST                                                        |        WORKING DIR          |
+| ENV VARIABLE         |  WHITELIST                                                       |        WORKING DIR          |
 | :---------           | :--------                                                        |:----------------------------| 
-| `Give env variable`  | `If you want to white list any ports list here` `Example` `82`   |`WORKDIR for the application`|
+| `Give env variable`  | `If you want to white list any ports list here`                  |`WORKDIR for the application`|
 
-➡️ Click on the Finish button.
+➡️ Click on the Install button.
 
 ➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
 ![App Screenshot](images/myapps.png)
 
 ➡️ Copy the xampp application Hostname without NodePort and search the Url. 
-
-➡️ Change the port in the starting of Url to port 80 to access the application.
-
-![App Screenshot](images/xampplink.png)
 
 ➡️ You will see the Xampp interface. 
 

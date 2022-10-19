@@ -40,27 +40,19 @@ Exposing the port '80' to access the vps.
 | :--------     | :--------     |
 | `80`          |               |
 
-➡️ click on next.
-
-| PORT NUMBER   |
-| :--------     |
-| `default 22`  |
-
-➡️ click on next.
+➡️ click on Advanced.
 
 | ENV VARIABLE         |  WHITELIST                                                       |        WORKING DIR          |
 | :---------           | :--------                                                        |:----------------------------| 
 | `Give env variable`  | `If you want to white list any ports list here` `Example` `82`   |`WORKDIR for the application`|
 
-➡️ Click on the Finish button.
+➡️ Click on the Insatll button.
 
 ➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
 ![App Screenshot](images/myapps.png)
 
 ➡️ Copy the Linuxvps application Hostname without NodePort and search the Url. 
-
-➡️ Change the port in the starting of Url to port 80 to access the application.
 
 ➡️ Now you can see a similar window like this. 
 

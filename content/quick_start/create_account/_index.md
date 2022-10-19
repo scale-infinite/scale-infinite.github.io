@@ -4,6 +4,8 @@ date: 2022-10-17T10:33:46+05:30
 draft: false
 ---
 
+➡️ Go to Scaleinfinite platform.
+
 ➡️ SignUP simply by using your Google account or email.
 
 ![App Screenshot](images/signup.png)
@@ -24,10 +26,6 @@ draft: false
 
 ![App Screenshot](images/ub1.png)
 
-➡️ Default port is 22.
-
-![App Screenshot](images/sshport.png)
-
 ➡️ Define the ENVIRONMENT variables, whitelisted ports, and WORKING directory and click on finish. 
 
 ![App Screenshot](images/ub3.png)
@@ -39,10 +37,6 @@ draft: false
 ➡️ To access the application copy and search the Host name without nodeport.
 
 ![App Screenshot](images/hostname.png)
-
-➡️ you can also change the present port to another port you specified.
-
-![App Screenshot](images/url.png)
 
 ➡️ And you can also link your Docker Hub account with scaleinfinite platform.
 
