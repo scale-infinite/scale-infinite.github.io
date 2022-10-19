@@ -1,5 +1,5 @@
 ---
-title: "cloudfloat"
+title: "Cloudfloat"
 date: 2022-10-19T11:46:31+05:30
 draft: false
 ---
@@ -23,6 +23,8 @@ If you are a premium member your applications will be automatically scaled based
 Simply select the application you need to deploy from the range of pre-selected apps and fill the required detials like application name, http port TCP/UDP port, Environment variables, Whitelist ports, working directory and simply deploy the application on the platform.
 
 Copy and search the host name of the application to access the application.
+
+##### Cloudfloat architecture
 
 ![App Screenshot](images/cfarc.png)
  
