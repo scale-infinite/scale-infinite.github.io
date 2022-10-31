@@ -63,6 +63,20 @@ Exposing the port '80' to access the vps.
 ![App Screenshot](images/terminal.png)
 
 
+## FAQ
+
+#### About Linux VPS image we used.
+
+This image is maintained by the scaleinfinite.
+
+#### Do the image secure to use?
+
+The image is created and verified by the scaleinfinite. it is a 100% secure image.   
+
+#### Are my data persistent ?
+
+For the free user there is no persistence, and for the premium user you can different type of persistence.
+
 
 
 
