@@ -69,4 +69,21 @@ And exposing 3306, 22 and 80 ports.
 ➡️ Now you can able to easily access and create application and edit databases in Mysql using Xampp.
 
 
+## FAQ
+
+#### About Xampp image we used.
+
+This image is maintained by the scaleinfinite.
+
+#### Do the image secure to use ?
+
+The image is created and verified by the scaleinfinite. it is a 100% secure image.
+
+#### Are my data persistent ?
+
+For the free user there is no persistence, and for the premium user you can different type of persistence.
+
+
+
+
 
