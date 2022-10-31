@@ -49,6 +49,10 @@ Nginx is a web server that can also be used as a reverse proxy, load balancer, m
 
 This is the official nginx image.
 
+#### Can i deploy my own nginx image with modified configuration ?
+
+Yes, you can simply deploy any version or modified image to our platform by linking your docker hub account to our platform.   
+
 #### Are my data persistent ?
 
 For the free user there is no persistence, and for the premium user you can different type of persistence.
