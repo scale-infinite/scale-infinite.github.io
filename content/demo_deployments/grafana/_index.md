@@ -55,3 +55,25 @@ Grafana is a multi-platform open source analytics and interactive visualization 
 ![App Screenshot](images/grafana-dashboard.png)
 
 
+## FAQ
+
+#### About grafana image we used.
+
+This is the official grafana image.
+
+#### Are there any restrictions on adding data sources ? 
+
+you can add any data source that grafana supports.
+
+#### Can i deploy older version of grafana or my own modified grafana image ?
+
+Yes, you can simply deploy any version or modified image to our platform by linking your docker hub account to our platform.   
+
+#### Are my data persistent ?
+
+For the free user there is no persistence, and for the premium user you can different type of persistence.
+
+
+
+
+

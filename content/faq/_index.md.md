@@ -4,6 +4,14 @@ date: 2022-10-31T10:35:53+05:30
 draft: false
 ---
 
+#### Do my applications Highly available, scalable, and reliable?
+
+yes, 100% Highly available, scalable, and reliable. we use industry-leading technologies and cloud-native tools like Kubernetes and more to keep your applications Highly available, scalable, and reliable.
+
+#### Who has access to my applications?
+
+No one outside your account can able to access your applications without your permission. And internally we use secure mechanisms to protect your applications and their date form others.
+
 #### How much does it cost ?
 
 Our service is free. However, applications can be ran for 2 hours only. Applications can be ran 24/7 with premium user option.

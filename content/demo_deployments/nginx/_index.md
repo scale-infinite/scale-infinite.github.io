@@ -42,3 +42,16 @@ Nginx is a web server that can also be used as a reverse proxy, load balancer, m
 
 ![App Screenshot](images/nginx-page.jpg)
 
+
+## FAQ
+
+#### About nginx image we used.
+
+This is the official nginx image.
+
+#### Are my data persistent ?
+
+For the free user there is no persistence, and for the premium user you can different type of persistence.
+
+
+
