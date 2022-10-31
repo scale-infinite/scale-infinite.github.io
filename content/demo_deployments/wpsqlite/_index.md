@@ -65,6 +65,26 @@ Used PHP scripts to 'install' the SQLite plugin and setting up the database so t
 ![App Screenshot](images/wordpress-dashboard.jpg)
 
 
+## FAQ
+
+#### About Wordpress sqlite image we used.
+
+This image is maintained by the scaleinfinite.
+
+#### Is sqlite good with wordpress ?
+
+Sqlite is widely used and lightweight database which makes your sight fast.
+
+#### Do the image secure to use ?
+
+The image is created and verified by the scaleinfinite. it is a 100% secure image.
+
+#### Are my data persistent ?
+
+For the free user there is no persistence, and for the premium user you can different type of persistence.
+
+
+
 
 
 

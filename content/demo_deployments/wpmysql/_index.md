@@ -70,3 +70,27 @@ Exposing 3306 and 80 ports on the container.
 ![App Screenshot](images/wordpress-dashboard.jpg)
 
 
+## FAQ
+
+#### About Wordpress mysql image we used.
+
+This image is maintained by the scaleinfinite.
+
+#### Is Mysql is in the same container ?
+
+Yes, both WordPress and MySQL are inbuilt into the same container securely.
+
+#### Do the image secure to use ?
+
+The image is created and verified by the scaleinfinite. it is a 100% secure image.
+
+#### Are my data persistent ?
+
+For the free user there is no persistence, and for the premium user you can different type of persistence.
+
+
+
+
+
+
+
