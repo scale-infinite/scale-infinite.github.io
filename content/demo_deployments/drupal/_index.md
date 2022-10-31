@@ -47,4 +47,25 @@ Drupal is a free and open-source web content management system written in PHP.
 ![App Screenshot](images/drupal-dashboard.png)
 
 
+## FAQ
+
+#### About Drupal image we used.
+
+This is the official Drupal image.
+
+#### Is the Database inbuilted in the same image ?
+
+No, you need to add your database while you are login and setting your website.
+
+#### Can i deploy older version of drupal or my own modified drupal image ?
+
+Yes, you can simply deploy any version or modified image to our platform by linking your docker hub account to our platform.   
+
+#### Are my data persistent ?
+
+For the free user there is no persistence, and for the premium user you can different type of persistence.
+
+
+
+
 
