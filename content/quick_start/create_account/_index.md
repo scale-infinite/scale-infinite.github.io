@@ -20,7 +20,15 @@ draft: false
 
 ➡️ Select the respected app you require to deploy and press the Install button.
 
-![App Screenshot](images/myapps.png)
+![App Screenshot](images/install.png)
+
+➡️ Only for the first time you need to agreee the terms and condictions and verifuy with phone number.
+
+![App Screenshot](images/otp1.jpg)
+
+![App Screenshot](images/otp2.jpg)
+
+![App Screenshot](images/otp3.jpg)
 
 ➡️ Fill the details like App name, HTTP address, TCP/UDP address.
 
