@@ -10,4 +10,4 @@ pre = "<b> </b>"
 
 ## Find Some Examples here..
 
- [![Grafana deployment](https://img.shields.io/badge/Grafana_deployment-1DA1F2?style=for-the-badge&logo=grafana&logoColor=white)](demo_deployments/frontend_apps/grafana)
+ [![Grafana deployment](https://img.shields.io/badge/Grafana_deployment-1DA1F2?style=for-the-badge&logo=grafana&logoColor=white)](grafana)
