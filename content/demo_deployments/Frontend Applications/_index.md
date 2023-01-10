@@ -8,6 +8,6 @@ pre = "<b> </b>"
 
 # Frontend Applications
 
-## This section contains a few Frontend Apps That are Hosted on our Platform
+## Find Some Examples here..
 
-[![Grafana deployment](https://img.shields.io/badge/Grafana_deployment-1DA1F2?style=for-the-badge&logo=grafana&logoColor=white)](demo_deployments/Frontend Applications/grafana)
+ [![Grafana deployment](https://img.shields.io/badge/Grafana_deployment-1DA1F2?style=for-the-badge&logo=grafana&logoColor=white)]('demo_deployments/Frontend Applications/grafana')
