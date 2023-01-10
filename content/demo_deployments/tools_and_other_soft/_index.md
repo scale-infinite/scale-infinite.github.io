@@ -6,7 +6,7 @@ chapter = true
 pre = "<b> </b>"
 +++
 
-# Some Other Tools and Software you can Try
+# Other Tools and Software
 
 ## Find Some Examples here..
 
