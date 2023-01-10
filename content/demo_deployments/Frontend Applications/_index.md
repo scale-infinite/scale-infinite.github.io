@@ -5,3 +5,9 @@ weight = 5
 chapter = true
 pre = "<b> </b>"
 +++
+
+# Frontend Applications
+
+## This section contains a few Frontend Apps That are Hosted on our Platform
+
+[![Grafana deployment](https://img.shields.io/badge/Grafana_deployment-1DA1F2?style=for-the-badge&logo=grafana&logoColor=white)](demo_deployments/Frontend Applications/grafana)
