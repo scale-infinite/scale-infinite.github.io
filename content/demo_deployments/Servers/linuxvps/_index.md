@@ -14,7 +14,7 @@ The linux vps is a virtual private server in contain that you can spinup in secc
 
 And updating and installing all the required packages like 'supervisor' a system that allows users to monitor and control a number of processes 'nginx' 'xz-utils' 'dbus-x11' 'dbus-x11' and important tools like 'net-tools'  for controlling the network subsystem of the Linux kernel.
 
-Then installed the 'vim-tiny' 'firefox' 'lxde' and 'vnc' virtual network computing software is very impportant for this application.
+Then installed the 'vim-tiny' 'firefox' 'lxde' and 'vnc' virtual network computing software is very important for this application.
 
 And 'copying' all the required files to the image.
 
