@@ -1,7 +1,7 @@
 ---
 title: "Xampp deployment"
 date: 2022-10-17T09:17:54+05:30
-draft: fales
+draft: false
 ---
 
 
