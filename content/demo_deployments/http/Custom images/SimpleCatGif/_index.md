@@ -10,9 +10,9 @@ A simple single page Node.js application.
 
 [Github Link](https://github.com/younesfakallah/catgif2)
 
-➡️Make sure you have your dockerhub account linked to scaleinfinte you can find the process here [Link](../../../../quick_start/my_account/_index.md)
+➡️Make sure you have your dockerhub account linked to scaleinfinte you can find the process here [Link](../../../../quick_start/my_account)
 
-➡️ Use [Build image](../../../../quick_start/build_image/_index.md) page to create a docker image and push into your docker hub account.
+➡️ Use [Build image](../../../../quick_start/build_image) page to create a docker image and push into your docker hub account.
 
 ➡️ Search the docker image you have created in Create app page.
 
@@ -32,9 +32,9 @@ A simple single page Node.js application.
 
 ➡️ click on Advanced.
 
-| ENV VARIABLE                                                                                                                  |  WHITELIST                                                       |        WORKING DIR          |
-| :---------                                                                                                                    | :--------                                                        |:----------------------------| 
-| `You can set multiple ENV for database connection` `MYSQL_DATABASE, MYSQL_USER`, `MYSQL_PASSWORD`, and `MYSQL_ROOT_PASSWORD`  | `If you want to white list any ports list here`                  |`WORKDIR for the application`|
+| ENV VARIABLE         |  WHITELIST                                                       |        WORKING DIR          |
+| :---------           | :--------                                                        |:----------------------------| 
+| `Give env variable`  | `If you want to white list any ports list here`                  |`WORKDIR for the application`|
 
 
 

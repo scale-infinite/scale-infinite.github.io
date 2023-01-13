@@ -6,7 +6,7 @@ draft: false
 
 This Section Demonstrates how to use build image page and build a Docker Image 
 
-➡️ Dockerhub account need to be added in __My Account__ page to use __Build Image__ page.Steps to add an account is here [Link](../my_account/_index.md)
+➡️ Dockerhub account need to be added in __My Account__ page to use __Build Image__ page.Steps to add an account is here [Link](../my_account)
 
 ➡️ Once, your are setup with dockerhub account. You can provide the Details of the image you want to create in build image page.
 
